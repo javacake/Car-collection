@@ -6,8 +6,9 @@ Suzuki
 Nissan
 Peugeot
 Mitsubishi
+Mercedes
 
-These are car makers.
+These are all car makers.
 
 The sport car makers
   Ferrari
